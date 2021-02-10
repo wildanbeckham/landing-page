@@ -1,0 +1,70 @@
+.navbar-brand,
+h2{
+  font-family: Viga;
+  font-size: 32px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.navbar-nav{
+  font-weight: 600;
+}
+
+.btn{
+  width: 120px;
+  font-weight: 600;
+}
+
+.bg{
+  background-color: transparent;
+}
+
+.jumbotron{
+  background-color: transparent;
+  height: 500px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.display-4,
+.lead{
+  font-weight: 600;
+}
+
+.header{
+  background-image: url(../img/parallax1.jpg);
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+
+hr{
+  border-bottom: 3px solid #000;
+  padding-top: 5px;
+  width: 30%;
+}
+
+.keunggulan{
+  background-image: url(../img/parallax2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.tanya{
+  font-weight: 600;
+}
+
+#container{
+    -webkit-backdrop-filter:  brightness(0.30);
+    backdrop-filter:  brightness(0.30);
+}
+
+#container1{
+    -webkit-backdrop-filter:  brightness(0.1);
+    backdrop-filter:  brightness(0.1);
+}
+
+.order{
+  background-image: url(../img/parallax3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
